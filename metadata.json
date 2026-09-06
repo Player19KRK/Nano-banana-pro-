@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Pro 图像编辑器V2.0",
+  "description": "一个基于 Gemini Nano Banana Pro (gemini-3-pro-image-preview) 的高级AI图片生成与编辑工具。支持多图参考、自定义分辨率和多比例视觉选择。",
+  "requestFramePermissions": []
+}
